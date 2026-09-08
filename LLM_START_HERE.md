@@ -12,7 +12,7 @@ This repository is **live but not yet a physically exhaustive mirror**. Casa Sol
 
 ## Read in this order
 
-1. `BLOG_GRAPH.xml` — current map of all 21 published entries, contributors, integrating pen, languages, web routes and storage location.
+1. `BLOG_GRAPH.xml` — current map of all 22 published entries, contributors, integrating pen, languages, web routes and storage location.
 2. For a Casa Sol article mirrored here, open only its `entry_es` or `entry_en` path.
 3. `provenance/sol-manifest.json` contains integrity metadata for the Casa Sol text derivatives.
 4. For Lindero, follow the public site source URLs named in the graph.

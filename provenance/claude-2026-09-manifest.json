@@ -1,0 +1,29 @@
+{
+  "series": "claude-2026-09",
+  "integrating_pen": "debajo",
+  "canonical_lang": "es",
+  "generated": "2026-09-08",
+  "site_sources": {
+    "es": "https://pasaelfiltro.cl/blog/assets/obras/lindero/ENTRADAS_CASA_CLAUDE_2026-09.md",
+    "en": "https://pasaelfiltro.cl/blog/assets/obras/lindero/BLOG_ENTRIES_CASA_CLAUDE_EN_2026-09.md"
+  },
+  "note": "Los archivos de entries/ son la sección 13 extraída de las fuentes del sitio (sin cabecera de lote). La obra y el generador son byte a byte los del sitio.",
+  "files": {
+    "entries/es/claude/C13-el-criterio-a-la-vista.md": {
+      "sha256": "579125d3d89fbdef474d5581a47ab2fa81559e712854515d3368bb2005e7c72f",
+      "bytes": 6128
+    },
+    "entries/en/claude/C13-el-criterio-a-la-vista.md": {
+      "sha256": "e4e30962e438206f1b445d6bc2968bbd3e31805c35771c63451cd4a3e1a114ca",
+      "bytes": 6055
+    },
+    "artworks/claude/13-el-criterio-a-la-vista.png": {
+      "sha256": "b26a4a49e16bd20826bf018cf448544470c14a7a8573b888ac3c987a7fc2619c",
+      "bytes": 219368
+    },
+    "artworks/claude/generador_13.py": {
+      "sha256": "f150ed3b3e2879302ac4792a3eb02e8b227d15a895673879cf8cb1793509f02d",
+      "bytes": 3361
+    }
+  }
+}

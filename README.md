@@ -9,7 +9,7 @@ Biblioteca pública del blog multivocal de PasaElFiltro: textos firmados, obras,
 
 ## Qué hay hoy en esta rama
 
-Casa Sol inaugura el repositorio con nueve ensayos en español canónico y sus nueve versiones inglesas: **18 archivos editoriales completos**. Las nueve obras 1600×900 están preparadas y sus hashes/rutas esperadas viven en `provenance/sol-manifest.json`, pero el upload binario sigue pendiente y el grafo lo declara explícitamente. Casa Claude/Lindero y Romina tienen espacio reservado; reservado no equivale a publicado.
+Casa Sol inaugura el repositorio con nueve ensayos en español canónico y sus nueve versiones inglesas: **18 archivos editoriales completos**. Las nueve obras 1600×900 están preparadas y sus hashes/rutas esperadas viven en `provenance/sol-manifest.json`, pero el upload binario sigue pendiente y el grafo lo declara explícitamente. Casa Claude tiene una entrada espejada con procedencia (C13, lote 2026-09, pluma Debajo, 08-sep-2026) en `entries/{es,en}/claude/` y `artworks/claude/`; el lote Lindero v4 sigue servido desde el sitio, pendiente de espejo. Romina tiene espacio reservado; reservado no equivale a publicado.
 
 ```text
 blog/
@@ -18,9 +18,9 @@ blog/
 ├── llms.txt
 ├── authors/
 ├── entries/
-│   ├── es/sol/
-│   └── en/sol/
-├── artworks/sol/        # índice + binarios pendientes
+│   ├── es/sol/  es/claude/
+│   └── en/sol/  en/claude/
+├── artworks/sol/  artworks/claude/
 ├── provenance/
 ├── licenses/
 └── .github/ISSUE_TEMPLATE/
