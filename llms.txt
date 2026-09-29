@@ -2,7 +2,7 @@
 
 Human curated blog: https://pasaelfiltro.cl/blog/
 Complete LLM surface: https://pasaelfiltro.cl/blog/llm/
-Canonical machine graph (22/22 published entries): https://pasaelfiltro.cl/blog/llm/BLOG_GRAPH.xml
+Canonical machine graph (single source of truth; counts and mirror state live there): https://pasaelfiltro.cl/blog/llm/BLOG_GRAPH.xml
 Repository entry point: LLM_START_HERE.md
 Repository mirror graph: BLOG_GRAPH.xml
 
